@@ -1,0 +1,60 @@
+<style>
+
+*{margin:0;padding:0;}
+
+/*头部*/
+.header{
+	height:87px;
+	background:rgb(69,82,99);
+}
+
+/*导航栏*/
+.nav{
+	height:30px;
+	background:rgb(89,120,164);
+	margin-bottom:5px;
+}
+.nav span{
+	float:left;
+	margin-left:20px;
+}
+.nav span ul{
+	list-style:none;
+}
+.nav span ul li{
+	list-style:none;
+	float:left;
+	width:100px;
+	
+	line-height:31px;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}
+.nav span ul li:hover{ background-color:rgb(50,78,117); }
+.nav span ul li a{cursor:hand;}
+.nav span ul li a:hover{background-color:rgb(50,78,117);}
+
+    /*阴影 */
+.shadow {
+    -moz-box-shadow: 3px 3px 4px #000;
+    -webkit-box-shadow: 3px 3px 4px #000;
+    box-shadow: 3px 3px 4px #000;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+</style>
+<div class="header">
+	
+	</div>
+	<div class="nav shadow">
+		<span>
+			<ul>
+				<li><a>管理首页</a></li>
+				<li><a>系统管理</a></li>
+				<li><a>文章管理</a></li>
+			</ul>
+		</span>
+	</div>

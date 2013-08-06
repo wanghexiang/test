@@ -992,3 +992,43 @@ SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' )  [ R
 ERR: 1146:Table 'notebook.think_admin' doesn't exist
  [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' ) 
 
+[ 2013-08-06T17:25:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011853s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025454s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.011562s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' )  [ RunTime:0.004675s ]
+
+[ 2013-08-06T17:25:43+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020986s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027438s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020822s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.010711s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.005105s ]
+
+[ 2013-08-06T17:25:46+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010073s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017856s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.025292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033651s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.013475s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.010056s ]
+
+[ 2013-08-06T17:25:57+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.036940s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.026517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033139s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.015327s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.002701s ]
+

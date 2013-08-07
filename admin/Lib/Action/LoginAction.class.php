@@ -15,8 +15,15 @@ class LoginAction extends Action {
 		$admin=M('admin');
 		$username=I('post.username');
 		$password=(I('password'));
-		$result=$admin->where("email='$username' and pwd='$password'")->find();
-		echo $admin->getLastSql();
+		$result=$admin->where("nickname='$username' and pwd='$password'")->find();
+                if($result){
+                    $_SESSION['admin']=$result;
+                    $this->redirect("Index/index");
+                    
+                }
+                else {
+                    $this->error("用户名或密码错误！");
+                 }
 	
 		
 	}

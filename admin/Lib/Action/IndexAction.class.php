@@ -7,7 +7,7 @@ class IndexAction extends Action {
 		//判断是否已经登陆
 		if(!($_SESSION['admin'])){
 			
-			A('Login/index');
+                    $this->redirect(('Login/index?id=1'));
 		}
 		else{
 			$this->show();

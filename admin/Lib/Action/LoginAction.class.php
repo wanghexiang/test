@@ -15,8 +15,13 @@ class LoginAction extends Action {
 		$admin=M('admin');
 		$username=I('post.username');
 		$password=(I('password'));
-		$result=$admin->where("email='$username' and pwd='$password'")->find();
-		echo $admin->getLastSql();
+		$result=$admin->where("nickname='$username' and pwd='$password'")->find();
+		if($result){
+			
+		}
+		else{
+			
+		}
 	
 		
 	}

@@ -1,0 +1,12 @@
+[ 2013-08-07T09:15:31+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019345s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-07T09:15:35+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016310s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+

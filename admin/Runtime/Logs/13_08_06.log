@@ -1032,3 +1032,33 @@ INFO: [ app_begin ] --END-- [ RunTime:0.033139s ]
 SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.015327s ]
 SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.002701s ]
 
+[ 2013-08-06T17:28:06+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023933s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029393s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.046549s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.003792s ]
+
+[ 2013-08-06T17:29:48+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021141s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024540s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.011617s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.003859s ]
+
+[ 2013-08-06T17:30:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.031595s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022876s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.012238s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.009347s ]
+

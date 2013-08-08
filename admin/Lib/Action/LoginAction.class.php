@@ -16,12 +16,14 @@ class LoginAction extends Action {
 		$username=I('post.username');
 		$password=(I('password'));
 		$result=$admin->where("nickname='$username' and pwd='$password'")->find();
-		if($result){
-			
-		}
-		else{
-			
-		}
+                if($result){
+                    $_SESSION['admin']=$result;
+                    $this->redirect("Index/index");
+                    
+                }
+                else {
+                    $this->error("用户名或密码错误�);
+                 }
 	
 		
 	}

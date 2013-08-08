@@ -10,8 +10,6 @@ class LoginAction extends Action {
 	}
 	public function login(){
 	//print_r($_POST);
-	
-
 		$admin=M('admin');
 		$username=I('post.username');
 		$password=(I('password'));
@@ -22,9 +20,7 @@ class LoginAction extends Action {
                     
                 }
                 else {
-                    $this->error("用户名或密码错误�);
-                 }
-	
-		
+                    $this->error("用户名或密码错误!");
+                 }	
 	}
 }

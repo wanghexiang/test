@@ -19,18 +19,19 @@
 <div id="main-content">
 	   <div class="tab-content" id="tab2">
           <form action="{:U('Article_cate/save')}" method="post">
-			<input name="id" type="hidden" value=""/>
+			<input name="id" type="hidden" value="{$result.id}"/>
+			<input name="pid" type="hidden" value="{$pid}"/>
             <fieldset>
             <!-- Set class to "column-left" or "column-right" on fieldsets to divide the form into columns -->
             <p>
-              <label>输入分类名称</label>
-              <input class="text-input small-input" type="text" id="name" name="name" />
+              <label>在下面填写分类名称</label>
+              <input class="text-input small-input" type="text" id="name" name="name" value="{$result.name}" />
               <span class="input-notification success png_bg">Successful message</span>
               <!-- Classes for input-notification: success, error, information, attention -->
               <br />
               <small>A small description of the field</small> </p>
            <p>
-              <input class="button" type="submit" value="Submit" />
+              <input class="button" type="submit" value="保存" />
             </p>
             </fieldset>
             <div class="clear"></div>

@@ -43,7 +43,6 @@
         </li>
         <li> <a href="#" class="nav-top-item"> 分类管理 </a>
           <ul>
-            <li><a href="<?php echo U('Article_cate/add');?>" target="main">添加分类</a></li>
             <li><a href="<?php echo U('Article_cate/index');?>" target="main">分类列表</a></li>
           </ul>
         </li>

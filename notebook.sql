@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50523
 File Encoding         : 65001
 
-Date: 2013-08-07 17:29:10
+Date: 2013-08-08 17:28:03
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -69,15 +69,15 @@ CREATE TABLE `article_cate` (
   `pid` int(11) DEFAULT NULL,
   `name` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of article_cate
 -- ----------------------------
-INSERT INTO `article_cate` VALUES ('1', '1', '1');
-INSERT INTO `article_cate` VALUES ('2', null, '');
-INSERT INTO `article_cate` VALUES ('3', null, '131313');
-INSERT INTO `article_cate` VALUES ('4', null, '131313');
+INSERT INTO `article_cate` VALUES ('17', '0', '全部分类');
+INSERT INTO `article_cate` VALUES ('22', '17', '二级分类');
+INSERT INTO `article_cate` VALUES ('23', '17', '12121212');
+INSERT INTO `article_cate` VALUES ('25', '23', '21212');
 
 -- ----------------------------
 -- Table structure for `nt_access`

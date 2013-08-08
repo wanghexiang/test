@@ -20,7 +20,7 @@
 	    <div class="content-box">
       <!-- Start Content Box -->
       <div class="content-box-header">
-        <h3>Content box</h3>
+        <h3>文章分类管理</h3>
         <ul class="content-box-tabs">
           <li><a href="#tab1" class="default-tab">Table</a></li>
           <!-- href must be unique and match the id of target div -->
@@ -45,20 +45,21 @@
                 <th>分类名称</th>
                 <th>Column 3</th>
                 <th>Column 4</th>
-                <th>Column 5</th>
+                <th>操作</th>
               </tr>
             </thead>
             <tfoot>
               <tr>
                 <td colspan="6">
                   <div class="bulk-actions align-left">
+				    <a href="__URL__/add?pid={$pid}">【新增分类】</a>
                     <select name="dropdown">
                       <option value="option1">Choose an action...</option>
                       <option value="option2">Edit</option>
                       <option value="option3">Delete</option>
                     </select>
                     <a class="button" href="#">Apply to selected</a> </div>
-                  <div class="pagination"> <a href="#" title="First Page">&laquo; First</a><a href="#" title="Previous Page">&laquo; Previous</a> <a href="#" class="number" title="1">1</a> <a href="#" class="number" title="2">2</a> <a href="#" class="number current" title="3">3</a> <a href="#" class="number" title="4">4</a> <a href="#" title="Next Page">Next &raquo;</a><a href="#" title="Last Page">Last &raquo;</a> </div>
+                  <div class="pagination">{$page} </div>
                   <!-- End .pagination -->
                   <div class="clear"></div>
                 </td>
@@ -66,17 +67,17 @@
             </tfoot>
             <tbody>
 			<foreach name='result' item='vo'>
-              <tr>
+              <tr id="tr_{$vo['id']}">
                 <td>
                   <input type="checkbox" />
                 </td>
                 <td>{$vo.id}</td>
                 <td>{$vo.name}</td>
-                <td>Consectetur adipiscing</td>
+                <td><a href="__URL__/index?pid={$vo['id']}">进入下级</a></td>
                 <td>Donec tortor diam</td>
                 <td>
                   <!-- Icons -->
-                  <a href="#" title="Edit"><img src="__PUBLIC__/images/icons/pencil.png" alt="Edit" /></a> <a href="#" title="Delete"><img src="__PUBLIC__/images/icons/cross.png" alt="Delete" /></a> <a href="#" title="Edit Meta"><img src="__PUBLIC__/images/icons/hammer_screwdriver.png" alt="Edit Meta" /></a> </td>
+                  <a href="{:U('Article_cate/add?id='.$vo['id'].'')}" title="Edit"><img src="__PUBLIC__/images/icons/pencil.png" alt="Edit" /></a> <a href="#" onclick="del({$vo['id']});" title="Delete"><img src="__PUBLIC__/images/icons/cross.png" alt="Delete" /></a> <a href="#" title="Edit Meta"><img src="__PUBLIC__/images/icons/hammer_screwdriver.png" alt="Edit Meta" /></a> </td>
               </tr>
 			</foreach>  
             </tbody>
@@ -88,4 +89,19 @@
     </div>
     <!-- End .content-box -->
 </div>
+<script type='text/javascript'>
+function del(id){
+if (confirm("真的要删除吗？")){
+	$.get("__URL__/delete?id="+id,function(info){
+		//删除成功
+		if(info==1){
+			$("#tr_"+id).hide();
+		}else{
+			alert(info);
+		}
+	});
+	}
+}
+
+</script>
 </html>

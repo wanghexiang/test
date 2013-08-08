@@ -1,0 +1,1843 @@
+[ 2013-08-06T16:02:13+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026594s ]
+
+[ 2013-08-06T16:03:47+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017115s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:03:51+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019298s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:07+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024132s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:08+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021081s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:08+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054440s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:08+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018833s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:11+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021309s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:04:33+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024166s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:03+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019606s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:23+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026720s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:23+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025477s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:24+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.055579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.064573s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:24+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021129s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:24+08:00 ] 127.0.0.8 /index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024356s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:28+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033956s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:06:44+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022433s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:11:08+08:00 ] 127.0.0.8 /index.php?m=login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023699s ]
+ERR: 无法加载模块:login
+
+[ 2013-08-06T16:11:15+08:00 ] 127.0.0.8 /index.php?m=Login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022321s ]
+
+[ 2013-08-06T16:11:58+08:00 ] 127.0.0.8 /index.php?m=Login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022791s ]
+ERR: 无法加载模块:Login
+
+[ 2013-08-06T16:12:09+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021869s ]
+ERR: 无法加载模块:Login
+
+[ 2013-08-06T16:12:23+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025349s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.163012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169383s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013080s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016402s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008049s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.024343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.082194s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.014155s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020270s ]
+
+[ 2013-08-06T16:12:31+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028287s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.140406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146457s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.018186s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.018123s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009395s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.016736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.082347s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017735s ]
+
+[ 2013-08-06T16:13:47+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025412s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.145072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155813s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012391s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012569s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006976s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.020820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.076914s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011491s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018161s ]
+
+[ 2013-08-06T16:14:15+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021200s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.141551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147763s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.022412s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.017214s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.014612s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.020583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.094278s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.019776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.026476s ]
+
+[ 2013-08-06T16:15:16+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018196s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.133663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139570s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010557s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011879s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008311s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.073645s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.016185s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022241s ]
+
+[ 2013-08-06T16:15:32+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020555s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.139924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148075s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012427s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013777s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006787s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.073321s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.014572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.021012s ]
+
+[ 2013-08-06T16:26:48+08:00 ] 127.0.0.8 /?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019560s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:16+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021498s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:27+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025855s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:28+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033586s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:29+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026017s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:29+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.023888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033226s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:27:38+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026139s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:34:47+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023275s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string E:\www\test\admin\Lib\Action\IndexAction.class.php 第 10 行.
+
+[ 2013-08-06T16:34:58+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020196s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:35:11+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.033314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039941s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:35:12+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020713s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:35:13+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024969s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T16:35:34+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018460s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.153456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.168659s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014599s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.015678s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.010428s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.082419s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013019s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019450s ]
+
+[ 2013-08-06T16:38:05+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030240s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.246280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.259179s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.017508s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.017353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012101s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.021862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.103323s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012020s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019684s ]
+
+[ 2013-08-06T16:46:31+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026729s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.194138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.200102s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013568s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.020106s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009484s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.030147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.091370s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.016422s ]
+INFO: [ view_end ] --END-- [ RunTime:0.023823s ]
+
+[ 2013-08-06T16:49:31+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017299s ]
+INFO: [ route_check ] --END-- [ RunTime:0.028439s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030851s ]
+NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) E:\www\test\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2013-08-06T16:50:28+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.032441s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017816s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.010114s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.004363s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:50:42+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020718s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022443s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.014286s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.003631s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:50:51+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.030639s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021986s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.015987s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.014143s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:50:54+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018018s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028091s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.024012s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.004033s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:51:37+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013840s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020182s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.025072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031210s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.018399s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.005565s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:52:35+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016197s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023510s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024027s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.012431s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.003210s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:53:13+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.021213s ]
+INFO: [ route_check ] --END-- [ RunTime:0.029192s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027861s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.018284s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.012205s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:54:02+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018522s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026612s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.012853s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.003048s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:54:19+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013198s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020012s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033038s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.030078s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.002790s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:55:10+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010440s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016901s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025991s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.014734s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.005366s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 17 行.
+
+[ 2013-08-06T16:55:16+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017676s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019710s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.010979s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.011717s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 17 行.
+
+[ 2013-08-06T16:55:36+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010083s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027094s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024593s ]
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.011916s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.003383s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:55:44+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025415s ]
+INFO: [ route_check ] --END-- [ RunTime:0.050430s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028508s ]
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.036953s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.006336s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:56:13+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010951s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017247s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024918s ]
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.011479s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.004617s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='' and password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1  
+
+[ 2013-08-06T16:56:54+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010491s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017713s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019664s ]
+NOTIC: [8] Undefined index: username E:\www\test\admin\Lib\Action\LoginAction.class.php 第 13 行.
+
+[ 2013-08-06T16:57:05+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019532s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025614s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027924s ]
+
+[ 2013-08-06T16:57:21+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017707s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024351s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025448s ]
+
+[ 2013-08-06T16:57:35+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.026924s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025294s ]
+
+[ 2013-08-06T16:57:48+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.024971s ]
+INFO: [ route_check ] --END-- [ RunTime:0.034247s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024104s ]
+
+[ 2013-08-06T16:58:27+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025286s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025643s ]
+
+[ 2013-08-06T16:58:49+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012170s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018505s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025504s ]
+
+[ 2013-08-06T17:03:54+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011285s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018068s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.023133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029298s ]
+
+[ 2013-08-06T17:03:57+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019077s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027342s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023433s ]
+
+[ 2013-08-06T17:06:10+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015444s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024629s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.023477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031431s ]
+
+[ 2013-08-06T17:06:35+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016759s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024281s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031751s ]
+
+[ 2013-08-06T17:06:53+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012351s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018899s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025556s ]
+
+[ 2013-08-06T17:13:12+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014260s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021874s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022249s ]
+
+[ 2013-08-06T17:13:13+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012045s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018290s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023072s ]
+
+[ 2013-08-06T17:13:14+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015183s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021722s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020326s ]
+
+[ 2013-08-06T17:13:15+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024333s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024906s ]
+
+[ 2013-08-06T17:13:17+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018017s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024883s ]
+
+[ 2013-08-06T17:13:58+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010557s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017967s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020839s ]
+
+[ 2013-08-06T17:15:19+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018344s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036952s ]
+
+[ 2013-08-06T17:16:48+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011048s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018728s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021230s ]
+
+[ 2013-08-06T17:16:56+08:00 ] 127.0.0.8 /index.php/Login/login/id/1.html?remember=on
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015190s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021130s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021095s ]
+
+[ 2013-08-06T17:17:24+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.052070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.058314s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.132574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.138513s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014922s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012824s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.015575s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.079679s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012812s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019096s ]
+
+[ 2013-08-06T17:17:27+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022044s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.140221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146331s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012151s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.018108s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009799s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.016814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.074592s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013337s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019219s ]
+
+[ 2013-08-06T17:17:30+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013020s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019231s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.028861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.034887s ]
+
+[ 2013-08-06T17:17:44+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017819s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023719s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026860s ]
+
+[ 2013-08-06T17:18:05+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028364s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.171425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.179341s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012208s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.015275s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.014811s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.024695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.089714s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013197s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020814s ]
+
+[ 2013-08-06T17:18:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021003s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.036085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.046089s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.010502s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1   [ RunTime:0.003993s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1  
+
+[ 2013-08-06T17:18:22+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020396s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021095s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.012405s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1   [ RunTime:0.003504s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1  
+
+[ 2013-08-06T17:18:25+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009887s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018123s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028802s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.016087s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1   [ RunTime:0.016811s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and password='0192023a7bbd73250516f069df18b500' ) LIMIT 1  
+
+[ 2013-08-06T17:18:46+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020464s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027928s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024168s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.017774s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.007741s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1  
+
+[ 2013-08-06T17:18:53+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010506s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016472s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021240s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.010106s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.010123s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1  
+
+[ 2013-08-06T17:19:20+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016104s ]
+INFO: [ route_check ] --END-- [ RunTime:0.022230s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025430s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.012782s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.006657s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1  
+
+[ 2013-08-06T17:20:00+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013530s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021490s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026480s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.013602s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='admin' ) LIMIT 1   [ RunTime:0.006695s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='admin' ) LIMIT 1  
+
+[ 2013-08-06T17:20:15+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013684s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020877s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026260s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.013978s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='admin' )  [ RunTime:0.002740s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and password='admin' ) 
+
+[ 2013-08-06T17:20:33+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021451s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025722s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.023370s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and pwd='admin' )  [ RunTime:0.007298s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='19467285@qq.com' and pwd='admin' ) 
+
+[ 2013-08-06T17:20:38+08:00 ] 127.0.0.8 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022729s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.161850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.168274s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.023042s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.019529s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011126s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.019967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.092364s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.026240s ]
+INFO: [ view_end ] --END-- [ RunTime:0.032428s ]
+
+[ 2013-08-06T17:20:40+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025654s ]
+INFO: [ route_check ] --END-- [ RunTime:0.032207s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022109s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.013630s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' )  [ RunTime:0.005153s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' ) 
+
+[ 2013-08-06T17:23:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025407s ]
+INFO: [ route_check ] --END-- [ RunTime:0.035334s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026014s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.017548s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_admin`
+SQL: SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' )  [ RunTime:0.013732s ]
+ERR: 1146:Table 'notebook.think_admin' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_admin` WHERE ( email='admin' and pwd='admin123' ) 
+
+[ 2013-08-06T17:25:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011853s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025454s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.011562s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' )  [ RunTime:0.004675s ]
+
+[ 2013-08-06T17:25:43+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020986s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027438s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020822s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.010711s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.005105s ]
+
+[ 2013-08-06T17:25:46+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010073s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017856s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.025292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033651s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.013475s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.010056s ]
+
+[ 2013-08-06T17:25:57+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.036940s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.026517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033139s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.015327s ]
+SQL: SELECT * FROM `admin` WHERE ( email='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.002701s ]
+
+<<<<<<< HEAD
+[ 2013-08-06T17:28:06+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023933s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029393s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.046549s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.003792s ]
+
+[ 2013-08-06T17:29:48+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021141s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024540s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.011617s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.003859s ]
+
+[ 2013-08-06T17:30:07+08:00 ] 127.0.0.8 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.031595s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022876s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.012238s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin123' ) LIMIT 1   [ RunTime:0.009347s ]
+=======
+[ 2013-08-06T19:19:24+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019485s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:06+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013856s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:07+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013783s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:07+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014095s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:08+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014202s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:08+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014722s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:09+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013923s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:09+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014795s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:10+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014536s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:10+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014239s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:11+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014156s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:11+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013761s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:12+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014238s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:12+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016079s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:12+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014239s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:13+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014109s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:13+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013806s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:58+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014121s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:20:59+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013909s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:23:17+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014144s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:23:18+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013708s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:23:18+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014190s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:24:09+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014205s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:24:09+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013971s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:24:10+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013766s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:24:26+08:00 ] 0.0.0.0 /index.php?m=login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013459s ]
+ERR: 无法加载模块:login
+
+[ 2013-08-06T19:24:35+08:00 ] 0.0.0.0 /index.php?m=logina=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013915s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:logina=index
+
+[ 2013-08-06T19:24:46+08:00 ] 0.0.0.0 /index.php?m=logina=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013644s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:logina=index
+
+[ 2013-08-06T19:24:51+08:00 ] 0.0.0.0 /index.php?m=login=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013539s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:login=index
+
+[ 2013-08-06T19:25:08+08:00 ] 0.0.0.0 /index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013697s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.086957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091857s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007337s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009148s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011986s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.046165s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007748s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012561s ]
+
+[ 2013-08-06T19:28:45+08:00 ] 0.0.0.0 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014398s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:28:45+08:00 ] 0.0.0.0 /index.php/index.php/Login/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006895s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011820s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013542s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:29:36+08:00 ] 0.0.0.0 /index.php/index.php/Login/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007143s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013045s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013720s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:29:43+08:00 ] 0.0.0.0 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013759s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:29:43+08:00 ] 0.0.0.0 /index.php/index.php/Login/index/id/1.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007694s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012444s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013642s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:30:05+08:00 ] 0.0.0.0 /index.php/index.php/Login/index/id/1.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007213s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012276s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013750s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:30:08+08:00 ] 0.0.0.0 /index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008447s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013415s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013879s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:30:09+08:00 ] 0.0.0.0 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007191s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012477s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013872s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.088184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093382s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007403s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.008848s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.046068s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012945s ]
+
+[ 2013-08-06T19:30:11+08:00 ] 0.0.0.0 /index.php/index.php/Login/index/id/1.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007272s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012053s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013723s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:30:12+08:00 ] 0.0.0.0 /index.php/index.php/Login/index/id/1.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007554s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012669s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013630s ]
+NOTIC: [8] Undefined variable: group E:\www\test\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-06T19:30:15+08:00 ] 0.0.0.0 /index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013993s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:30:16+08:00 ] 0.0.0.0 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007011s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013681s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.085798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090723s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007881s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009044s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004432s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.013130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.047980s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007950s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012931s ]
+
+[ 2013-08-06T19:32:56+08:00 ] 0.0.0.0 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007511s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012502s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013746s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.015166s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin' ) LIMIT 1   [ RunTime:0.001728s ]
+
+[ 2013-08-06T19:32:56+08:00 ] 0.0.0.0 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007148s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012338s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013947s ]
+ERR: 无法加载模块:index
+
+[ 2013-08-06T19:33:14+08:00 ] 0.0.0.0 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014502s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014764s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.018379s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin' ) LIMIT 1   [ RunTime:0.001711s ]
+
+[ 2013-08-06T19:33:14+08:00 ] 0.0.0.0 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007351s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012304s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013703s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T19:33:14+08:00 ] 0.0.0.0 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014952s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.086578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091566s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007255s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009136s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004262s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.046453s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008074s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012877s ]
+
+[ 2013-08-06T19:34:11+08:00 ] 0.0.0.0 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013197s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015060s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.019387s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='' ) LIMIT 1   [ RunTime:0.001699s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.202096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.207234s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007485s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009031s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004304s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.047067s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008158s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013006s ]
+
+[ 2013-08-06T19:34:21+08:00 ] 0.0.0.0 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006959s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012104s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014601s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.019163s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin' ) LIMIT 1   [ RunTime:0.001900s ]
+
+[ 2013-08-06T19:34:21+08:00 ] 0.0.0.0 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007093s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011976s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014057s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.111074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.116082s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008061s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004148s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.047400s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009277s ]
+INFO: [ view_end ] --END-- [ RunTime:0.014868s ]
+
+[ 2013-08-06T19:34:24+08:00 ] 0.0.0.0 /index.php/Index/plans.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007275s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012704s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013433s ]
+ERR: 非法操作:plans
+
+[ 2013-08-06T19:34:28+08:00 ] 0.0.0.0 /index.php/Index/grid.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012074s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013572s ]
+ERR: 非法操作:grid
+
+[ 2013-08-06T20:16:20+08:00 ] 0.0.0.0 /index.php/Index/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012216s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018107s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016956s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.138852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145115s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010500s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012068s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005406s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.013343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.058976s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009341s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015196s ]
+
+[ 2013-08-06T20:16:22+08:00 ] 0.0.0.0 /index.php/Index/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009527s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014568s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018960s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.147283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153517s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008485s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014815s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005192s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.062056s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012081s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018879s ]
+
+[ 2013-08-06T20:16:34+08:00 ] 0.0.0.0 /index.php/Index/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008769s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016215s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014794s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.134532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144455s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010594s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.010942s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004645s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.064606s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010421s ]
+INFO: [ view_end ] --END-- [ RunTime:0.121394s ]
+
+[ 2013-08-06T20:16:35+08:00 ] 0.0.0.0 /index.php/Index/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010926s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016684s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016449s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.163256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.168223s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009070s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013623s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.016633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.061564s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010596s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017001s ]
+
+[ 2013-08-06T20:16:43+08:00 ] 0.0.0.0 /index.php/Index/plans.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014612s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019021s ]
+ERR: 非法操作:plans
+
+[ 2013-08-06T20:16:46+08:00 ] 0.0.0.0 /index.php/Index/account.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019734s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016013s ]
+ERR: 非法操作:account
+
+[ 2013-08-06T20:16:51+08:00 ] 0.0.0.0 /index.php/Index/login.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013072s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017745s ]
+ERR: 非法操作:login
+
+[ 2013-08-06T20:16:57+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018057s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.141028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148170s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011122s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011575s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004128s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.062389s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007846s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018959s ]
+
+[ 2013-08-06T22:29:55+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016977s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T22:29:56+08:00 ] 0.0.0.0 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013482s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017150s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.114082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121051s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.026996s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.017672s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.018872s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.106099s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012929s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019769s ]
+
+[ 2013-08-06T22:30:02+08:00 ] 0.0.0.0 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010700s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015811s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017181s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.088610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093676s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007885s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009597s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004388s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.048396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008103s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013294s ]
+
+[ 2013-08-06T22:30:12+08:00 ] 0.0.0.0 /index.php/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015077s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014581s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.020955s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin' ) LIMIT 1   [ RunTime:0.001756s ]
+
+[ 2013-08-06T22:30:12+08:00 ] 0.0.0.0 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007365s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012551s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013841s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.198420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.203528s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007751s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009069s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005533s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012037s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.047870s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.017089s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022338s ]
+
+[ 2013-08-06T22:30:18+08:00 ] 0.0.0.0 /index.php/Index/faq.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009372s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015957s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013806s ]
+ERR: 非法操作:faq
+
+[ 2013-08-06T22:30:22+08:00 ] 0.0.0.0 /index.php/Index/grid.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012305s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019314s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014766s ]
+ERR: 非法操作:grid
+
+[ 2013-08-06T22:35:42+08:00 ] 0.0.0.0 /index.php/Index/plans.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007965s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013475s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016418s ]
+ERR: 非法操作:plans
+
+[ 2013-08-06T22:35:45+08:00 ] 0.0.0.0 /index.php/Index/grid.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016781s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014554s ]
+ERR: 非法操作:grid
+
+[ 2013-08-06T22:47:01+08:00 ] 0.0.0.0 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017335s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.260831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.266532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.062729s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011253s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004651s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.225124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.320834s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009530s ]
+INFO: [ view_end ] --END-- [ RunTime:0.090446s ]
+
+[ 2013-08-06T23:04:17+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014485s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-06T23:04:18+08:00 ] 127.0.0.1 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008222s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013186s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020648s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.105790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111169s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008052s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.010986s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004681s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.051164s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009614s ]
+INFO: [ view_end ] --END-- [ RunTime:0.014539s ]
+
+[ 2013-08-06T23:06:19+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015854s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.128459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134887s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010681s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012746s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.019695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.066119s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.021365s ]
+INFO: [ view_end ] --END-- [ RunTime:0.032398s ]
+>>>>>>> 1f51183aafa9a25d9e21c8136e3652fe704afa26
+

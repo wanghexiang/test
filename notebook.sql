@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50523
 File Encoding         : 65001
 
-Date: 2013-08-06 17:26:40
+Date: 2013-08-07 17:29:10
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -34,7 +34,7 @@ CREATE TABLE `admin` (
 -- ----------------------------
 -- Records of admin
 -- ----------------------------
-INSERT INTO `admin` VALUES ('1', '超级管理员', '19467285@qq.com', 'admin', '1', '我是超级管理员 哈哈~~', null, '1373267039');
+INSERT INTO `admin` VALUES ('1', 'admin', '19467285@qq.com', 'admin', '1', '我是超级管理员 哈哈~~', null, '1373267039');
 
 -- ----------------------------
 -- Table structure for `article`
@@ -59,6 +59,25 @@ CREATE TABLE `article` (
 -- Records of article
 -- ----------------------------
 INSERT INTO `article` VALUES ('3', '14', '银监会拟引入银行理财业务和机构准入制度', '银行理财', '银行理财业务的迅猛增长，倒逼监管的步步升级。', '1', '银行理财业务的迅猛增长，倒逼监管的步步升级。记者从业内获得的最新统计数据显示，截至2012年末，各银行共存续理财产品32152款，理财资金账面余额7.1万亿元，比2011年末增长约55%。年初以来，银监会已将理财业务列为今年的重点监管工作。消息人士透露，对理财产品加大监管主要表现在两方面：一是将派出机构对银行理财产品销售活动进行专项检查；另一方面，将“资金池”操作模式作为现场检查的重点，“要求商业…', '1363141499', '1373619997', '银行理财业务的迅猛增长，倒逼监管的步步升级。\n<p>\n	记者从业内获得的最新统计数据显示，截至2012年末，各银行共存续理财产品32152款，理财资金账面余额7.1万亿元，比2011年末增长约55%。\n</p>\n<p>\n	年初以来，银监会已将理财业务列为今年的重点监管工作\n</p>\n<p>\n	<br />\n</p>\n<p>\n	<br />\n</p>\n<p>\n	点，“要求商业银行在2-4月份首先对‘资金池’类理财产品进行自查整改。”\n</p>\n<p>\n	随着理财业务的过快发展，监管部门对于理财业务参与机构的风险管理能力、资产管理能力等方面表现出担忧，特别是城商行和农村合作<a href=\"http://licai.so/Jgzl/\" target=\"_blank\">金融机构</a>。消息人士称，因此，监管部门正在酝酿开展理财业务的机构准入和业务准入制度\n</p>\n<p>\n	<br />\n</p>\n<p>\n	<br />\n</p>\n<p>\n	<br />\n</p>\n<p>\n	<br />\n</p>\n<p>\n	<br />\n</p>', '1');
+
+-- ----------------------------
+-- Table structure for `article_cate`
+-- ----------------------------
+DROP TABLE IF EXISTS `article_cate`;
+CREATE TABLE `article_cate` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `pid` int(11) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of article_cate
+-- ----------------------------
+INSERT INTO `article_cate` VALUES ('1', '1', '1');
+INSERT INTO `article_cate` VALUES ('2', null, '');
+INSERT INTO `article_cate` VALUES ('3', null, '131313');
+INSERT INTO `article_cate` VALUES ('4', null, '131313');
 
 -- ----------------------------
 -- Table structure for `nt_access`
@@ -125,52 +144,6 @@ INSERT INTO `nt_access` VALUES ('2', '28', '3', '26', '');
 INSERT INTO `nt_access` VALUES ('2', '29', '3', '26', '');
 INSERT INTO `nt_access` VALUES ('2', '30', '3', '26', '');
 INSERT INTO `nt_access` VALUES ('2', '31', '3', '26', '');
-
--- ----------------------------
--- Table structure for `nt_category`
--- ----------------------------
-DROP TABLE IF EXISTS `nt_category`;
-CREATE TABLE `nt_category` (
-  `cid` int(5) NOT NULL AUTO_INCREMENT,
-  `pid` int(5) DEFAULT NULL COMMENT 'parentCategory上级分类',
-  `name` varchar(20) DEFAULT NULL COMMENT '分类名称',
-  PRIMARY KEY (`cid`)
-) ENGINE=MyISAM AUTO_INCREMENT=49 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC COMMENT='新闻分类表';
-
--- ----------------------------
--- Records of nt_category
--- ----------------------------
-INSERT INTO `nt_category` VALUES ('24', '22', '理财资讯');
-INSERT INTO `nt_category` VALUES ('14', '13', '私募动态');
-INSERT INTO `nt_category` VALUES ('1', '0', '信托计划');
-INSERT INTO `nt_category` VALUES ('23', '22', '行业动态');
-INSERT INTO `nt_category` VALUES ('8', '6', '募资资讯');
-INSERT INTO `nt_category` VALUES ('2', '1', '行业新闻');
-INSERT INTO `nt_category` VALUES ('9', '6', '上市资讯');
-INSERT INTO `nt_category` VALUES ('6', '0', 'PE');
-INSERT INTO `nt_category` VALUES ('21', '18', '债券公告');
-INSERT INTO `nt_category` VALUES ('15', '13', '私募人物');
-INSERT INTO `nt_category` VALUES ('16', '13', '私募视点');
-INSERT INTO `nt_category` VALUES ('26', '22', '监管动态');
-INSERT INTO `nt_category` VALUES ('13', '0', '阳光私募');
-INSERT INTO `nt_category` VALUES ('17', '13', '私募研究');
-INSERT INTO `nt_category` VALUES ('10', '6', '大佬语录');
-INSERT INTO `nt_category` VALUES ('12', '6', '投资人生');
-INSERT INTO `nt_category` VALUES ('27', '0', '券商');
-INSERT INTO `nt_category` VALUES ('4', '1', '信托渠道');
-INSERT INTO `nt_category` VALUES ('20', '18', '债市研究');
-INSERT INTO `nt_category` VALUES ('18', '0', '债券');
-INSERT INTO `nt_category` VALUES ('25', '22', '观点评论');
-INSERT INTO `nt_category` VALUES ('5', '1', '行业研究');
-INSERT INTO `nt_category` VALUES ('11', '6', '投资人物');
-INSERT INTO `nt_category` VALUES ('28', '27', '行业动态');
-INSERT INTO `nt_category` VALUES ('30', '27', '行业研究');
-INSERT INTO `nt_category` VALUES ('22', '0', '银行');
-INSERT INTO `nt_category` VALUES ('3', '1', '机构动态');
-INSERT INTO `nt_category` VALUES ('7', '6', '行业动态');
-INSERT INTO `nt_category` VALUES ('29', '27', '研究动态');
-INSERT INTO `nt_category` VALUES ('19', '18', '债券要闻');
-INSERT INTO `nt_category` VALUES ('31', '6', '收购并购');
 
 -- ----------------------------
 -- Table structure for `nt_member`

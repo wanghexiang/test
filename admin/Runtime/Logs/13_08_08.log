@@ -1,0 +1,33 @@
+[ 2013-08-08T09:45:18+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022779s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-08T09:45:18+08:00 ] 127.0.0.8 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015201s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021200s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019670s ]
+ERR: 无法加载模块:Login
+
+[ 2013-08-08T09:45:29+08:00 ] 127.0.0.8 /index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012409s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022507s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-08T09:45:30+08:00 ] 127.0.0.8 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013476s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027425s ]
+ERR: 无法加载模块:Login
+

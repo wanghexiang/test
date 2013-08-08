@@ -13,4 +13,10 @@ class IndexAction extends Action {
 			$this->show();
 		}
 	}
+	public function left(){
+		$this->show();
+	}
+	public function main(){
+		$this->show();
+	}
 }

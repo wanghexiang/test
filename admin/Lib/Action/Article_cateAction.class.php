@@ -24,7 +24,6 @@ class Article_cateAction extends Action{
 	 */
 	public function save(){
 		$id=I('post.id');
-		
 		$cate=M("article_cate");
 		//修改
 		if($cate->create()){
@@ -82,7 +81,6 @@ class Article_cateAction extends Action{
 		else
 		//删除失败
 		echo "删除失败";
-		
 	}
 	
 }

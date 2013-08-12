@@ -32,18 +32,18 @@
           Dashboard </a> </li>
         <li> <a href="#" class="nav-top-item current">
           <!-- Add the class "current" to current menu item -->
-          Articles </a>
+          文章管理 </a>
           <ul>
-            <li><a href="#">添加文章</a></li>
-            <li><a class="current" href="#">Manage Articles</a></li>
+            <li><a href="#"></a></li>
+            <li><a class="current" href="<?php echo U('Article/add');?>" target="main">添加文章</a></li>
             <!-- Add class "current" to sub menu items also -->
-            <li><a href="#">Manage Comments</a></li>
+            <li><a href="<?php echo U('Article/index');?>" target="main">文章列表</a></li>
             <li><a href="#">Manage Categories</a></li>
           </ul>
         </li>
         <li> <a href="#" class="nav-top-item"> 分类管理 </a>
           <ul>
-            <li><a href="<?php echo U('Article_cate/index');?>" target="main">分类列表</a></li>
+            <li><a href="<?php echo U('Article_cate/index');?>" target="main">文章分类列表</a></li>
           </ul>
         </li>
         <li> <a href="#" class="nav-top-item"> Image Gallery </a>

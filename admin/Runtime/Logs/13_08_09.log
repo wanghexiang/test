@@ -1,0 +1,1026 @@
+[ 2013-08-09T09:26:13+08:00 ] 127.0.0.8 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018722s ]
+NOTIC: [8] Undefined index: admin E:\www\test\admin\Lib\Action\IndexAction.class.php 第 8 行.
+
+[ 2013-08-09T09:26:14+08:00 ] 127.0.0.8 /index.php/Login/index/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011496s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017289s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021321s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\LoginAction.class.php on line 8 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.154257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160096s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010395s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012305s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008067s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.069047s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012421s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018534s ]
+
+[ 2013-08-09T09:26:19+08:00 ] 127.0.0.8 /index.php/Login/login.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010107s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017303s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024751s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.041263s ]
+SQL: SELECT * FROM `admin` WHERE ( nickname='admin' and pwd='admin' ) LIMIT 1   [ RunTime:0.025362s ]
+
+[ 2013-08-09T09:26:19+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019464s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019840s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.147017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153156s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012206s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011179s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009293s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.063984s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012881s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018802s ]
+
+[ 2013-08-09T09:26:20+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.048144s ]
+INFO: [ route_check ] --END-- [ RunTime:0.053832s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030340s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.147762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153520s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010978s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.010943s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005868s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.062762s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.095107s ]
+INFO: [ view_end ] --END-- [ RunTime:0.100867s ]
+
+[ 2013-08-09T09:26:21+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.036265s ]
+INFO: [ route_check ] --END-- [ RunTime:0.043421s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.044457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.050416s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.546153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.555918s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.031216s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.028375s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.023519s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.044115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.142868s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.034890s ]
+INFO: [ view_end ] --END-- [ RunTime:0.041428s ]
+
+[ 2013-08-09T09:26:26+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012179s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017884s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021026s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.029316s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002415s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.002505s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.234541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.240478s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.016322s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011678s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006545s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.067520s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011683s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020079s ]
+
+[ 2013-08-09T09:26:29+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010196s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016082s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018098s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.009155s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.004336s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.002903s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.233027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.238767s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014870s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.010924s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007077s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.063625s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009871s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015702s ]
+
+[ 2013-08-09T09:26:31+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=23
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009334s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016497s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018724s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.015610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='23' ) LIMIT 1   [ RunTime:0.003844s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='23' ) LIMIT 0,10   [ RunTime:0.004019s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.247395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.253746s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011900s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014629s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007341s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.027257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.079091s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012284s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019117s ]
+
+[ 2013-08-09T09:26:34+08:00 ] 127.0.0.8 /index.php/Article_cate/delete?id=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017502s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027007s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.010288s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='25' ) LIMIT 1   [ RunTime:0.002409s ]
+SQL: DELETE FROM `article_cate` WHERE ( id='25' ) [ RunTime:0.028280s ]
+
+[ 2013-08-09T09:26:37+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009268s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015200s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018259s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.012533s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.009325s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.002736s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.246440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.257652s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013144s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013260s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008866s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.071227s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.016436s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022663s ]
+
+[ 2013-08-09T09:26:40+08:00 ] 127.0.0.8 /index.php/Article_cate/delete?id=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013510s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019688s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026639s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.010142s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.002287s ]
+
+[ 2013-08-09T09:26:49+08:00 ] 127.0.0.8 /index.php/Article_cate/add?pid=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009046s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016351s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018093s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.010724s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: result E:\www\test\admin\Runtime\Cache\074d16fc5816396801f1b6a883dfd0ca.php 第 22 行.
+NOTIC: [8] Undefined variable: result E:\www\test\admin\Runtime\Cache\074d16fc5816396801f1b6a883dfd0ca.php 第 28 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.146765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152820s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009845s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012807s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011275s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065841s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011273s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017089s ]
+
+[ 2013-08-09T09:26:52+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008942s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014746s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019158s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.011281s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002325s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.002148s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.279289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.285395s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009717s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014159s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005266s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.068885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010077s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015990s ]
+
+[ 2013-08-09T10:17:15+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012238s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018075s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019611s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.150029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155975s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012208s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007624s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065307s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016987s ]
+
+[ 2013-08-09T10:17:17+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015844s ]
+INFO: [ route_check ] --END-- [ RunTime:0.028413s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.032650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040482s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.260468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.268045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.021120s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012783s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005502s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.084237s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011404s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017967s ]
+
+[ 2013-08-09T10:17:17+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.091424s ]
+INFO: [ route_check ] --END-- [ RunTime:0.097344s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.044217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.050152s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.360057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.374174s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.015053s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.023511s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012868s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.029006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.096744s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.117495s ]
+INFO: [ view_end ] --END-- [ RunTime:0.123877s ]
+
+[ 2013-08-09T10:17:19+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023439s ]
+INFO: [ route_check ] --END-- [ RunTime:0.029337s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020470s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.149383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.159912s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010753s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011973s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.023348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.071723s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.022152s ]
+INFO: [ view_end ] --END-- [ RunTime:0.028032s ]
+
+[ 2013-08-09T10:17:20+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.042471s ]
+INFO: [ route_check ] --END-- [ RunTime:0.048727s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.030803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036869s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.208028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.214193s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011913s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.022301s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006462s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.024361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.082637s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.074416s ]
+INFO: [ view_end ] --END-- [ RunTime:0.081998s ]
+
+[ 2013-08-09T10:17:21+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.059330s ]
+INFO: [ route_check ] --END-- [ RunTime:0.065745s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.038786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.044700s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.449266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.457031s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.022985s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.030819s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.021468s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.042294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.133887s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.036074s ]
+INFO: [ view_end ] --END-- [ RunTime:0.043671s ]
+
+[ 2013-08-09T10:17:23+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016327s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023903s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021801s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.134389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140411s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009387s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016873s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005520s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065034s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010213s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016118s ]
+
+[ 2013-08-09T10:17:25+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.039128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.045295s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023554s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.221519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.229108s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010979s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.025027s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007330s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.076761s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012834s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018631s ]
+
+[ 2013-08-09T10:17:26+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.052835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.058883s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.037950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045279s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.490993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.496837s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.072342s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.034916s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.068137s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.048179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.244336s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.031929s ]
+INFO: [ view_end ] --END-- [ RunTime:0.042175s ]
+
+[ 2013-08-09T10:17:37+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013735s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019735s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022205s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.169172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.176672s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014517s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014043s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009090s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.085412s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.014388s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020489s ]
+
+[ 2013-08-09T10:17:38+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015430s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021551s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.077658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.089285s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.177750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.183952s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.026006s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.021174s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008884s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.016856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.092837s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.017654s ]
+INFO: [ view_end ] --END-- [ RunTime:0.023907s ]
+
+[ 2013-08-09T10:17:39+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.141903s ]
+INFO: [ route_check ] --END-- [ RunTime:0.147766s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029153s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.335256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.344158s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.018975s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.018250s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011440s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.027576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.101053s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.087916s ]
+INFO: [ view_end ] --END-- [ RunTime:0.093861s ]
+
+[ 2013-08-09T10:17:40+08:00 ] 127.0.0.8 /index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013042s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019150s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021057s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 13 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.154489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166369s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.025578s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.030648s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009701s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.100849s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012090s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018535s ]
+
+[ 2013-08-09T10:17:42+08:00 ] 127.0.0.8 /index.php/Index/left.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.032444s ]
+INFO: [ route_check ] --END-- [ RunTime:0.038366s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.026442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032331s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 17 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.235511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.241549s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.017066s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014468s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007503s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.075255s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012713s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018641s ]
+
+[ 2013-08-09T10:17:42+08:00 ] 127.0.0.8 /index.php/Index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.052650s ]
+INFO: [ route_check ] --END-- [ RunTime:0.058708s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.090238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.096473s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\IndexAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.266468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.276274s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.025294s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.020438s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.015542s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.028108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.110749s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.096832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.102711s ]
+
+[ 2013-08-09T10:17:47+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018747s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024649s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.015070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.003904s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.002187s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.280441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.293946s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014578s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.025806s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.010140s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.089171s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.019806s ]
+INFO: [ view_end ] --END-- [ RunTime:0.025629s ]
+
+[ 2013-08-09T10:17:52+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.021173s ]
+INFO: [ route_check ] --END-- [ RunTime:0.030316s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021635s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.010787s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.002382s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.004056s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.281465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.287399s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011582s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016036s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009614s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.027689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.086115s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013458s ]
+INFO: [ view_end ] --END-- [ RunTime:0.021451s ]
+
+[ 2013-08-09T10:17:59+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=22
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012425s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018564s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020517s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.008798s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='22' ) LIMIT 1   [ RunTime:0.002442s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='22' ) LIMIT 0,10   [ RunTime:0.002378s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.220639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.226598s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.021153s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014410s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006918s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.075786s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011363s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017419s ]
+
+[ 2013-08-09T10:18:02+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020807s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.029468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036038s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.013495s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.013457s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.004340s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.289941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.296503s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010091s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.019288s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006531s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.020022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.071901s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012856s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018774s ]
+
+[ 2013-08-09T10:18:04+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015867s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028624s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.013354s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.002369s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.002390s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.258538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.264711s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011028s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014141s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007545s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.021481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.073438s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012521s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018478s ]
+
+[ 2013-08-09T11:08:04+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010822s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016692s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024247s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.011931s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002469s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.003331s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 67 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.233383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.239535s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012066s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011893s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008061s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.070412s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011260s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017312s ]
+
+[ 2013-08-09T11:48:20+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011990s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018887s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025587s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.009335s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002522s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.003841s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.308759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.317521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.011841s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016461s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008026s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.028349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.085382s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.014116s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020999s ]
+
+[ 2013-08-09T11:48:22+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019231s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020283s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.008563s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.002451s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.003087s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.248986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.255183s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011929s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006672s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.067801s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012915s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019855s ]
+
+[ 2013-08-09T11:48:25+08:00 ] 127.0.0.8 /index.php/Article_cate/add/id/23.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010944s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017069s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029380s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.012967s ]
+SQL: SELECT * FROM `article_cate` WHERE ( id='23' ) LIMIT 1   [ RunTime:0.004202s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.166614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.172847s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013984s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012054s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012521s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.070619s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019751s ]
+
+[ 2013-08-09T15:25:56+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014591s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021185s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027705s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.011795s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.003839s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.004733s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.259794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.267516s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010849s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006462s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065420s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.016392s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022468s ]
+
+[ 2013-08-09T15:25:58+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012169s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018151s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028052s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.012151s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.003965s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.002435s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.241561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.247334s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010140s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.015548s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006294s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.069575s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.011120s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017195s ]
+
+[ 2013-08-09T15:26:01+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=23
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012754s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020366s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031750s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.008830s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='23' ) LIMIT 1   [ RunTime:0.003915s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='23' ) LIMIT 0,10   [ RunTime:0.002368s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.251791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.257776s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013546s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016797s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008626s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.018740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.088270s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013372s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020524s ]
+
+[ 2013-08-09T15:26:04+08:00 ] 127.0.0.8 /index.php/Article_cate/add?pid=23
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015182s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019002s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.013808s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 20 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: result E:\www\test\admin\Runtime\Cache\074d16fc5816396801f1b6a883dfd0ca.php 第 22 行.
+NOTIC: [8] Undefined variable: result E:\www\test\admin\Runtime\Cache\074d16fc5816396801f1b6a883dfd0ca.php 第 28 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.165776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.172239s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.018631s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011798s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007099s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.068682s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013786s ]
+INFO: [ view_end ] --END-- [ RunTime:0.020590s ]
+
+[ 2013-08-09T15:26:09+08:00 ] 127.0.0.8 /index.php/Article_cate/save.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010268s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016304s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027736s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.009554s ]
+SQL: INSERT INTO `article_cate` (`id`,`pid`,`name`) VALUES (0,23,'11111111111111111111111111111111111111111111111111111111111111111111111111') [ RunTime:0.053133s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.164741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.170709s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.017934s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.010981s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.015020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.066713s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010032s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016210s ]
+
+[ 2013-08-09T15:26:15+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013514s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020765s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024640s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.013777s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002856s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.003727s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.267264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.273164s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010862s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011296s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007087s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.067642s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010056s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016395s ]
+
+[ 2013-08-09T15:26:20+08:00 ] 127.0.0.8 /index.php/Article_cate/index?pid=17
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011628s ]
+INFO: [ route_check ] --END-- [ RunTime:0.022298s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.088060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.094284s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.010904s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='17' ) LIMIT 1   [ RunTime:0.002506s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='17' ) LIMIT 0,10   [ RunTime:0.002351s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.245925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.254512s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.010753s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011285s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005478s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.022820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.068161s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010487s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018171s ]
+
+[ 2013-08-09T15:51:17+08:00 ] 127.0.0.8 /index.php/Article_cate/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014420s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023235s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022861s ]
+SQL: SHOW COLUMNS FROM `article_cate` [ RunTime:0.017403s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article_cate` WHERE ( pid='' ) LIMIT 1   [ RunTime:0.002936s ]
+SQL: SELECT * FROM `article_cate` WHERE ( pid='' ) LIMIT 0,10   [ RunTime:0.007085s ]
+NOTIC: [2] Missing argument 1 for Action::show(), called in E:\www\test\admin\Lib\Action\Article_cateAction.class.php on line 66 and defined E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 107 行.
+NOTIC: [8] Undefined variable: content E:\www\test\ThinkPHP\Lib\Core\Action.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.259697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.267151s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.014382s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012636s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011025s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.019971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.085419s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.015624s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022005s ]
+
